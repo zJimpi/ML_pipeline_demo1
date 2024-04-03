@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: LP-ML-Project
+Version: 0.0.1
+Summary: An End-to-end ML pipeline project about Diamond price prediction
+Author: Jimpi
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
