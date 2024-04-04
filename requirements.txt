@@ -2,4 +2,6 @@ pandas
 numpy 
 seaborn
 flask 
+typing
+scikit-learn
 -e .
