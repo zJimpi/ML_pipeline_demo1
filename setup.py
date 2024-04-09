@@ -18,6 +18,7 @@ setup(
     version= "0.0.1", 
     author = "Jimpi", 
     description= "An End-to-end ML pipeline project about Diamond price prediction", 
+    author_email= "eg6@gmail.com",
     install_requires = get_requirements("requirements.txt"),
-    packages=find_packages()
+    packages = find_packages()
 )

@@ -3,4 +3,7 @@ numpy
 seaborn
 flask
 typing
+pickles
+logging
 scikit-learn
+datetime
